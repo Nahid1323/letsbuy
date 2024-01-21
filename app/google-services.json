@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559055978209",
+    "project_id": "let-s-buy-b7d77",
+    "storage_bucket": "let-s-buy-b7d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559055978209:android:64e0e266a1aeb36b81c1a0",
+        "android_client_info": {
+          "package_name": "com.mahtabun.letsbuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHvCBp6PzG6r3fq1GubBoTShh9SL6MpZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
